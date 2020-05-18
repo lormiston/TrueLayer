@@ -1,0 +1,24 @@
+{
+  "name": "truelayer",
+  "version": "1.0.0",
+  "description": "TrueLayer press static page",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lormiston/TrueLayer.git"
+  },
+  "author": "L Ormiston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lormiston/TrueLayer/issues"
+  },
+  "homepage": "https://github.com/lormiston/TrueLayer#readme"
+}
