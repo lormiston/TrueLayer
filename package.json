@@ -4,8 +4,7 @@
   "description": "TrueLayer press static page",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.5.0",
-    "gulp": "^4.0.2"
+    "bootstrap": "^4.5.0"
   },
   "devDependencies": {},
   "scripts": {
