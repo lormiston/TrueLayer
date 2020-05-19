@@ -39,6 +39,28 @@
    border: 1px solid rgba(0,0,0,.125);
    border-radius: .25rem;
    margin-bottom: 2rem;
+   padding: 2rem;
+}
+
+.card-body p {
+  padding: 10px 0 20px 0 ;
+
+}
+
+.card-body h2 {
+  margin: 15px 0 20px 0;
+
+}
+
+.card-body h3 {
+  margin-bottom: .25rem;
+
+}
+
+.card-body h4 {
+  color: #aaaaaa;
+  text-transform: none;
+
 }
 
 .card-press .card-body:hover {
