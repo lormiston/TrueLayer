@@ -36,9 +36,9 @@ I would like to explore animating the transparent speech bubbles.
 
 I have tried to maintain TrueLayer's visual language and code style and have tried to add my own personal touch. I designed the layout in Sketch before building the press page.
 
-### Zipped file
+### Zip file
 
-A zip file of the page and files can be downloaded [here](https://github.com/lormiston/TrueLayer/blob/master/TrueLayer-Press-Page.zip)
+A zip file of the page and files can be downloaded [here](https://github.com/lormiston/TrueLayer/blob/master/TrueLayer-Press-Page.zip).
 
 Thank you!
 
