@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="60px" viewBox="0 0 61 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="60" height="60"></rect>
+        <polygon id="path-3" points="0.8349 0.2159 19.0449 0.2159 19.0449 20 0.8349 20"></polygon>
+    </defs>
+    <g id="Main-Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05_App-Landing-Copy-7" transform="translate(-706.000000, -1498.000000)">
+            <g id="Company-News" transform="translate(137.000000, 1004.000000)">
+                <g id="Group" transform="translate(143.000000, 53.000000)">
+                    <g id="News/Style-1-Copy-2" transform="translate(390.000000, 392.000000)">
+                        <g id="Group" transform="translate(36.000000, 49.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Rectangle" fill="#EEEEEE" xlink:href="#path-1"></use>
+                            <g id="Group-5" mask="url(#mask-2)">
+                                <g transform="translate(14.000000, 18.000000)">
+                                    <polygon id="Fill-1" fill="#2D2D2D" points="0 -0.0001 0 24.0099 4.57 24.0099 4.57 13.0099 12.8 13.0099 12.8 10.3299 4.57 10.3299 4.57 2.7199 13.78 2.7199 13.78 -0.0001"></polygon>
+                                    <g id="Group-4" stroke-width="1" fill="none" transform="translate(15.000000, 4.494300)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="Clip-3"></g>
+                                        <path d="M10.0549,2.6559 C7.0549,2.6559 4.6849,4.8559 4.7949,9.5259 L14.7949,8.2359 C14.8249,4.3659 12.9449,2.6559 10.0449,2.6559 L10.0549,2.6559 Z M5.0549,11.5559 C5.4749,15.2859 7.7149,17.1659 11.4749,17.1659 C13.4479,17.1979 15.4079,16.8299 17.2349,16.0859 L18.2849,18.6359 C16.0099,19.5869 13.5599,20.0499 11.0949,19.9959 C4.8549,19.9959 0.8349,16.5059 0.8349,10.0559 C0.8349,3.8459 4.5749,0.2159 10.2249,0.2159 C15.8749,0.2159 19.0449,3.5259 19.0449,9.8459 L5.0549,11.5559 Z" id="Fill-2" fill="#57C7FF" mask="url(#mask-4)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
